@@ -14,7 +14,6 @@ O objetivo principal é aplicar modelos estatísticos para entender como diferen
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Java** - Linguagem principal do projeto
 - **Python 3** - Análise estatística complementar
 - **Pandas & NumPy** - Manipulação e tratamento de dados
 - **Statsmodels** - Implementação dos modelos de regressão OLS
